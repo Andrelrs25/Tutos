@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     //Este método se ejecutara cuando se presione el botón
-    public void sumar (View view) {
+    public void Sumar (View view) {
         String valor1=et1.getText().toString();
         String valor2=et2.getText().toString();
         int nro1=Integer.parseInt(valor1);
